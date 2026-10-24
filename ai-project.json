@@ -1,0 +1,17 @@
+{
+  "applicationId": "ai-tier-list",
+  "productName": "AI 从夯到拉",
+  "githubRepository": "https://github.com/kanade-EdTech/AI-conghangdaola.git",
+  "platforms": {
+    "toy": {
+      "version": "0.1.4",
+      "previewVersion": "0.1.4-dev.1",
+      "id": "47043330441216",
+      "slug": "ai-conghangdaola"
+    },
+    "xhs": {
+      "version": "0.1.4",
+      "previewVersion": "0.1.4-dev.1"
+    }
+  }
+}

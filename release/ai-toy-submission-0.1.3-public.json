@@ -1,0 +1,19 @@
+{
+  "applicationId": "ai-tier-list",
+  "id": "47043330441216",
+  "title": "AI 从夯到拉",
+  "slug": "ai-conghangdaola",
+  "version": "0.1.3",
+  "date": "2026-10-24",
+  "status": "auditing",
+  "requestedVisibility": "public",
+  "observedVisibilityAfterSubmission": "LINK_ONLY",
+  "publicVisibilityConfirmed": false,
+  "preview_url": "https://www.bilibili.com/toy/preview/author_nOuzPx4v/index.html",
+  "verified_preview_url": "https://www.bilibili.com/toy/preview/author_h7jBIc29/index.html",
+  "url": "https://www.bilibili.com/toy/ai-conghangdaola/index.html",
+  "package": "release/ai-tier-list-toy-0.1.3.zip",
+  "sha256": "125fc0c927ed92e5110008744fbb7b9c91e3d1dc92d12ee75fc796db0254b4b0",
+  "checks": {"automatedTests": 47, "browserChecks": 56, "onlinePreviewVerified": true},
+  "note": "User explicitly authorized testing, review submission and public visibility. Update submitted with --visibility public; CLI history confirms public. Fresh account list reports auditing/LINK_ONLY, so public visibility is not yet confirmed effective."
+}

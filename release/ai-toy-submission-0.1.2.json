@@ -1,0 +1,14 @@
+{
+  "applicationId": "ai-tier-list",
+  "title": "AI 从夯到拉",
+  "id": "47043330441216",
+  "slug": "ai-conghangdaola",
+  "version": "0.1.2",
+  "date": "2026-10-23",
+  "status": "auditing",
+  "preview_url": "https://www.bilibili.com/toy/preview/author_Azb8UCqW/index.html",
+  "verified_preview_url": "https://www.bilibili.com/toy/preview/author_bw29b7N5/index.html",
+  "package": "release/ai-tier-list-toy-0.1.2.zip",
+  "sha256": "51977ebd7a1bcc1a6ec113acd8d245f4645c51bf8765a02a7ee827213e3c468a",
+  "note": "User explicitly requested review submission. Updated existing AI Toy; name, slug, cover, icon and visibility unchanged."
+}

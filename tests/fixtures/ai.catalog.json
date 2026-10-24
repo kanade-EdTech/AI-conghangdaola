@@ -1,0 +1,1036 @@
+{
+  "catalogRevision": "fixture-2026-10-22-1",
+  "verifiedAt": null,
+  "demo": true,
+  "providers": {
+    "demo-a": "Example Lab A",
+    "demo-b": "Example Lab B"
+  },
+  "categories": {
+    "chat": "Chat",
+    "creative": "Creative"
+  },
+  "icons": {},
+  "items": [
+    {
+      "id": "builtin:app:example-01",
+      "kind": "app",
+      "name": "Example App 01",
+      "aliases": [
+        "sample 1"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-02",
+      "kind": "app",
+      "name": "Example App 02",
+      "aliases": [
+        "sample 2"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-03",
+      "kind": "app",
+      "name": "Example App 03",
+      "aliases": [
+        "sample 3"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-04",
+      "kind": "app",
+      "name": "Example App 04",
+      "aliases": [
+        "sample 4"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-05",
+      "kind": "app",
+      "name": "Example App 05",
+      "aliases": [
+        "sample 5"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-06",
+      "kind": "app",
+      "name": "Example App 06",
+      "aliases": [
+        "sample 6"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-07",
+      "kind": "app",
+      "name": "Example App 07",
+      "aliases": [
+        "sample 7"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-08",
+      "kind": "app",
+      "name": "Example App 08",
+      "aliases": [
+        "sample 8"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-09",
+      "kind": "app",
+      "name": "Example App 09",
+      "aliases": [
+        "sample 9"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-10",
+      "kind": "app",
+      "name": "Example App 10",
+      "aliases": [
+        "sample 10"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-11",
+      "kind": "app",
+      "name": "Example App 11",
+      "aliases": [
+        "sample 11"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-12",
+      "kind": "app",
+      "name": "Example App 12",
+      "aliases": [
+        "sample 12"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-13",
+      "kind": "app",
+      "name": "Example App 13",
+      "aliases": [
+        "sample 13"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-14",
+      "kind": "app",
+      "name": "Example App 14",
+      "aliases": [
+        "sample 14"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-15",
+      "kind": "app",
+      "name": "Example App 15",
+      "aliases": [
+        "sample 15"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-16",
+      "kind": "app",
+      "name": "Example App 16",
+      "aliases": [
+        "sample 16"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-17",
+      "kind": "app",
+      "name": "Example App 17",
+      "aliases": [
+        "sample 17"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-18",
+      "kind": "app",
+      "name": "Example App 18",
+      "aliases": [
+        "sample 18"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-19",
+      "kind": "app",
+      "name": "Example App 19",
+      "aliases": [
+        "sample 19"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-20",
+      "kind": "app",
+      "name": "Example App 20",
+      "aliases": [
+        "sample 20"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-21",
+      "kind": "app",
+      "name": "Example App 21",
+      "aliases": [
+        "sample 21"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-22",
+      "kind": "app",
+      "name": "Example App 22",
+      "aliases": [
+        "sample 22"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-23",
+      "kind": "app",
+      "name": "Example App 23",
+      "aliases": [
+        "sample 23"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-24",
+      "kind": "app",
+      "name": "Example App 24",
+      "aliases": [
+        "sample 24"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-25",
+      "kind": "app",
+      "name": "Example App 25",
+      "aliases": [
+        "sample 25"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-26",
+      "kind": "app",
+      "name": "Example App 26",
+      "aliases": [
+        "sample 26"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-27",
+      "kind": "app",
+      "name": "Example App 27",
+      "aliases": [
+        "sample 27"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-28",
+      "kind": "app",
+      "name": "Example App 28",
+      "aliases": [
+        "sample 28"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-29",
+      "kind": "app",
+      "name": "Example App 29",
+      "aliases": [
+        "sample 29"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-30",
+      "kind": "app",
+      "name": "Example App 30",
+      "aliases": [
+        "sample 30"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-31",
+      "kind": "app",
+      "name": "Example App 31",
+      "aliases": [
+        "sample 31"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-32",
+      "kind": "app",
+      "name": "Example App 32",
+      "aliases": [
+        "sample 32"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-33",
+      "kind": "app",
+      "name": "Example App 33",
+      "aliases": [
+        "sample 33"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-34",
+      "kind": "app",
+      "name": "Example App 34",
+      "aliases": [
+        "sample 34"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-35",
+      "kind": "app",
+      "name": "Example App 35",
+      "aliases": [
+        "sample 35"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-36",
+      "kind": "app",
+      "name": "Example App 36",
+      "aliases": [
+        "sample 36"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-37",
+      "kind": "app",
+      "name": "Example App 37",
+      "aliases": [
+        "sample 37"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-38",
+      "kind": "app",
+      "name": "Example App 38",
+      "aliases": [
+        "sample 38"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-39",
+      "kind": "app",
+      "name": "Example App 39",
+      "aliases": [
+        "sample 39"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-40",
+      "kind": "app",
+      "name": "Example App 40",
+      "aliases": [
+        "sample 40"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-41",
+      "kind": "app",
+      "name": "Example App 41",
+      "aliases": [
+        "sample 41"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-42",
+      "kind": "app",
+      "name": "Example App 42",
+      "aliases": [
+        "sample 42"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-43",
+      "kind": "app",
+      "name": "Example App 43",
+      "aliases": [
+        "sample 43"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-44",
+      "kind": "app",
+      "name": "Example App 44",
+      "aliases": [
+        "sample 44"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-45",
+      "kind": "app",
+      "name": "Example App 45",
+      "aliases": [
+        "sample 45"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-46",
+      "kind": "app",
+      "name": "Example App 46",
+      "aliases": [
+        "sample 46"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-47",
+      "kind": "app",
+      "name": "Example App 47",
+      "aliases": [
+        "sample 47"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:app:example-48",
+      "kind": "app",
+      "name": "Example App 48",
+      "aliases": [
+        "sample 48"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-01",
+      "kind": "llm",
+      "name": "Example Model 01",
+      "aliases": [
+        "sample 1"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v1",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-02",
+      "kind": "llm",
+      "name": "Example Model 02",
+      "aliases": [
+        "sample 2"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v2",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-03",
+      "kind": "llm",
+      "name": "Example Model 03",
+      "aliases": [
+        "sample 3"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only / v3",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-04",
+      "kind": "llm",
+      "name": "Example Model 04",
+      "aliases": [
+        "sample 4"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v4",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-05",
+      "kind": "llm",
+      "name": "Example Model 05",
+      "aliases": [
+        "sample 5"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v5",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-06",
+      "kind": "llm",
+      "name": "Example Model 06",
+      "aliases": [
+        "sample 6"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only / v6",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-07",
+      "kind": "llm",
+      "name": "Example Model 07",
+      "aliases": [
+        "sample 7"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v7",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-08",
+      "kind": "llm",
+      "name": "Example Model 08",
+      "aliases": [
+        "sample 8"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v8",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-09",
+      "kind": "llm",
+      "name": "Example Model 09",
+      "aliases": [
+        "sample 9"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only / v9",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-10",
+      "kind": "llm",
+      "name": "Example Model 10",
+      "aliases": [
+        "sample 10"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v10",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-11",
+      "kind": "llm",
+      "name": "Example Model 11",
+      "aliases": [
+        "sample 11"
+      ],
+      "providerId": "demo-a",
+      "categoryIds": [
+        "chat"
+      ],
+      "subtitle": "Fixture only / v11",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    },
+    {
+      "id": "builtin:llm:example-12",
+      "kind": "llm",
+      "name": "Example Model 12",
+      "aliases": [
+        "sample 12"
+      ],
+      "providerId": "demo-b",
+      "categoryIds": [
+        "creative"
+      ],
+      "subtitle": "Fixture only / v12",
+      "iconKey": null,
+      "lifecycle": "unknown",
+      "sources": [],
+      "verifiedAt": null
+    }
+  ]
+}

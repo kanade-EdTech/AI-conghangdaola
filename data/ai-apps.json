@@ -1,0 +1,526 @@
+{
+  "catalogRevision": "app-pack-dd746789bf9fc394",
+  "verifiedAt": "2026-10-23",
+  "providers": {
+    "appstore-6459478672": "豆包",
+    "appstore-6737597349": "DeepSeek",
+    "appstore-6466733523": "千问",
+    "appstore-6480446430": "腾讯元宝",
+    "appstore-6474233312": "Kimi",
+    "appstore-6446882473": "文心",
+    "appstore-6450893458": "智谱清言",
+    "appstore-6449919551": "讯飞星火",
+    "appstore-6503676563": "即梦AI",
+    "appstore-6670396916": "可灵AI",
+    "appstore-6448311069": "ChatGPT",
+    "appstore-6477489729": "Google Gemini",
+    "appstore-6473753684": "Claude",
+    "appstore-6670324846": "Grok",
+    "appstore-541164041": "Microsoft Copilot",
+    "appstore-1668000334": "Perplexity",
+    "appstore-1558240027": "Meta AI",
+    "appstore-1640745955": "Poe",
+    "appstore-6480136315": "Suno",
+    "appstore-1671705818": "Character.AI",
+    "appstore-6463076337": "星野",
+    "appstore-6737527615": "NotebookLM",
+    "web-qwen-studio": "Qwen Studio"
+  },
+  "categories": {
+    "app-domestic": "国内 App",
+    "app-overseas": "国外 App"
+  },
+  "items": [
+    {
+      "id": "builtin:app:appstore:6459478672",
+      "kind": "app",
+      "name": "豆包",
+      "aliases": [
+        "豆包 - 生活工作 AI 助手"
+      ],
+      "providerId": "appstore-6459478672",
+      "providerName": "豆包",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6459478672",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6459478672",
+        "https://itunes.apple.com/lookup?id=6459478672&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6737597349",
+      "kind": "app",
+      "name": "DeepSeek",
+      "aliases": [
+        "DeepSeek - AI 智能助手"
+      ],
+      "providerId": "appstore-6737597349",
+      "providerName": "DeepSeek",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6737597349",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6737597349",
+        "https://itunes.apple.com/lookup?id=6737597349&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6466733523",
+      "kind": "app",
+      "name": "千问",
+      "aliases": [
+        "千问 - 阿里AI助手"
+      ],
+      "providerId": "appstore-6466733523",
+      "providerName": "千问",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6466733523",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6466733523",
+        "https://itunes.apple.com/lookup?id=6466733523&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6480446430",
+      "kind": "app",
+      "name": "腾讯元宝",
+      "aliases": [
+        "元宝-腾讯全能AI助手"
+      ],
+      "providerId": "appstore-6480446430",
+      "providerName": "腾讯元宝",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6480446430",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6480446430",
+        "https://itunes.apple.com/lookup?id=6480446430&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6474233312",
+      "kind": "app",
+      "name": "Kimi",
+      "aliases": [
+        "Kimi"
+      ],
+      "providerId": "appstore-6474233312",
+      "providerName": "Kimi",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6474233312",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6474233312",
+        "https://itunes.apple.com/lookup?id=6474233312&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6446882473",
+      "kind": "app",
+      "name": "文心",
+      "aliases": [
+        "文心 - 百度旗下全能AI助手"
+      ],
+      "providerId": "appstore-6446882473",
+      "providerName": "文心",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6446882473",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/cn/app/id6446882473",
+        "https://itunes.apple.com/lookup?id=6446882473&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6450893458",
+      "kind": "app",
+      "name": "智谱清言",
+      "aliases": [
+        "智谱清言 - 一站式解放AI生产力"
+      ],
+      "providerId": "appstore-6450893458",
+      "providerName": "智谱清言",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6450893458",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/cn/app/id6450893458",
+        "https://itunes.apple.com/lookup?id=6450893458&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6449919551",
+      "kind": "app",
+      "name": "讯飞星火",
+      "aliases": [
+        "讯飞星火-懂你的AI助手"
+      ],
+      "providerId": "appstore-6449919551",
+      "providerName": "讯飞星火",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6449919551",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/cn/app/id6449919551",
+        "https://itunes.apple.com/lookup?id=6449919551&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6503676563",
+      "kind": "app",
+      "name": "即梦AI",
+      "aliases": [
+        "即梦AI - 抖音旗下AI图片和视频工具"
+      ],
+      "providerId": "appstore-6503676563",
+      "providerName": "即梦AI",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6503676563",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6503676563",
+        "https://itunes.apple.com/lookup?id=6503676563&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6670396916",
+      "kind": "app",
+      "name": "可灵AI",
+      "aliases": [
+        "可灵AI - AI图片&视频创作工具"
+      ],
+      "providerId": "appstore-6670396916",
+      "providerName": "可灵AI",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6670396916",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6670396916",
+        "https://itunes.apple.com/lookup?id=6670396916&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6448311069",
+      "kind": "app",
+      "name": "ChatGPT",
+      "aliases": [
+        "ChatGPT"
+      ],
+      "providerId": "appstore-6448311069",
+      "providerName": "ChatGPT",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-6448311069",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6448311069",
+        "https://itunes.apple.com/lookup?id=6448311069&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6477489729",
+      "kind": "app",
+      "name": "Google Gemini",
+      "aliases": [
+        "Google Gemini"
+      ],
+      "providerId": "appstore-6477489729",
+      "providerName": "Google Gemini",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-6477489729",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6477489729",
+        "https://itunes.apple.com/lookup?id=6477489729&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6473753684",
+      "kind": "app",
+      "name": "Claude",
+      "aliases": [
+        "Claude by Anthropic"
+      ],
+      "providerId": "appstore-6473753684",
+      "providerName": "Claude",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-6473753684",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6473753684",
+        "https://itunes.apple.com/lookup?id=6473753684&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6670324846",
+      "kind": "app",
+      "name": "Grok",
+      "aliases": [
+        "Grok AI"
+      ],
+      "providerId": "appstore-6670324846",
+      "providerName": "Grok",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-6670324846",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id6670324846",
+        "https://itunes.apple.com/lookup?id=6670324846&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:541164041",
+      "kind": "app",
+      "name": "Microsoft Copilot",
+      "aliases": [
+        "Microsoft Copilot"
+      ],
+      "providerId": "appstore-541164041",
+      "providerName": "Microsoft Copilot",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-541164041",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/us/app/id541164041",
+        "https://itunes.apple.com/lookup?id=541164041&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:1668000334",
+      "kind": "app",
+      "name": "Perplexity",
+      "aliases": [
+        "Perplexity - AI Search & Chat"
+      ],
+      "providerId": "appstore-1668000334",
+      "providerName": "Perplexity",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-1668000334",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id1668000334",
+        "https://itunes.apple.com/lookup?id=1668000334&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:1558240027",
+      "kind": "app",
+      "name": "Meta AI",
+      "aliases": [
+        "Meta AI"
+      ],
+      "providerId": "appstore-1558240027",
+      "providerName": "Meta AI",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-1558240027",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/app/id1558240027",
+        "https://itunes.apple.com/lookup?id=1558240027&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:1640745955",
+      "kind": "app",
+      "name": "Poe",
+      "aliases": [
+        "Poe – Fast AI Chat"
+      ],
+      "providerId": "appstore-1640745955",
+      "providerName": "Poe",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-1640745955",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/us/app/id1640745955",
+        "https://itunes.apple.com/lookup?id=1640745955&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6480136315",
+      "kind": "app",
+      "name": "Suno",
+      "aliases": [
+        "Suno - AI Songs, Music, Lyrics"
+      ],
+      "providerId": "appstore-6480136315",
+      "providerName": "Suno",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-6480136315",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/us/app/id6480136315",
+        "https://itunes.apple.com/lookup?id=6480136315&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:1671705818",
+      "kind": "app",
+      "name": "Character.AI",
+      "aliases": [
+        "Character AI: Chat, Talk, Text"
+      ],
+      "providerId": "appstore-1671705818",
+      "providerName": "Character.AI",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-1671705818",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/us/app/id1671705818",
+        "https://itunes.apple.com/lookup?id=1671705818&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6463076337",
+      "kind": "app",
+      "name": "星野",
+      "aliases": [
+        "星野-所建皆你所AI"
+      ],
+      "providerId": "appstore-6463076337",
+      "providerName": "星野",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "app-6463076337",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/cn/app/%E6%98%9F%E9%87%8E-%E6%89%80%E5%BB%BA%E7%9A%86%E4%BD%A0%E6%89%80ai/id6463076337?uo=4",
+        "https://itunes.apple.com/lookup?id=6463076337&country=cn"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:appstore:6737527615",
+      "kind": "app",
+      "name": "NotebookLM",
+      "aliases": [
+        "Gemini Notebook"
+      ],
+      "providerId": "appstore-6737527615",
+      "providerName": "NotebookLM",
+      "categoryIds": [
+        "app-overseas"
+      ],
+      "subtitle": "国外",
+      "iconKey": "app-6737527615",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4",
+        "https://itunes.apple.com/lookup?id=6737527615&country=us"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:app:web:qwen-studio",
+      "kind": "app",
+      "name": "Qwen Studio",
+      "aliases": [
+        "Qwen Studio"
+      ],
+      "providerId": "web-qwen-studio",
+      "providerName": "Qwen Studio",
+      "categoryIds": [
+        "app-domestic"
+      ],
+      "subtitle": "国内",
+      "iconKey": "llm-qwen",
+      "lifecycle": "unknown",
+      "sources": [
+        "https://chat.qwen.ai/",
+        "https://qwen.ai/qwenchat"
+      ],
+      "verifiedAt": "2026-10-23"
+    }
+  ],
+  "importOrigin": {
+    "adapter": "app-image-pack",
+    "source": "F:\\VS_Code_Project\\AI-conghangdaola\\output\\常用AI-App图标_23款",
+    "csvSha256": "dd746789bf9fc394bf94638b6d8d92159a2448cc646d80a73db257f432e84d5f",
+    "selectionBasis": "原有20款常用App，加用户指定的星野、Qwen Studio、NotebookLM；Qwen Studio按官方网页应用收录。国内/国外沿用品牌归属分类，非排名。",
+    "appCount": 23,
+    "note": "Source pack read-only; no popularity ranking implied."
+  }
+}

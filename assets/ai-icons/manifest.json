@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "icons": [
+    {
+      "key": "llm-openai",
+      "path": "assets/ai-icons/llm-openai.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/openai.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "8a33312f6bb17c1edddf8f9d7fbac09ce1d1d697d6601f37227afa879e94c52e",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "OpenAI/OpenAI.png"
+    },
+    {
+      "key": "llm-claude",
+      "path": "assets/ai-icons/llm-claude.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/claude-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "97b53fb85b3bf401ffeb8ee7c5ebad734ce9f6edc3038f242021c53bcc18e23d",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "Anthropic/Claude.png"
+    },
+    {
+      "key": "llm-gemini",
+      "path": "assets/ai-icons/llm-gemini.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/gemini-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "10c628f55d22a9725b9f9fccce7cf062b9fb68da5f7736e87010e0594d7ba6db",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "Google/Gemini.png"
+    },
+    {
+      "key": "llm-deepseek",
+      "path": "assets/ai-icons/llm-deepseek.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/deepseek-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "f98596fd7802ca0c5290c498fec578fa823988646332ee36c43b7920dc4936eb",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "DeepSeek_深度求索/DeepSeek.png"
+    },
+    {
+      "key": "llm-qwen",
+      "path": "assets/ai-icons/llm-qwen.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/qwen-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "50f7672cff425da125586b4d737b41d13c758411a976937b00020168b63f5add",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "Alibaba_阿里巴巴/Qwen.png"
+    },
+    {
+      "key": "llm-kimi",
+      "path": "assets/ai-icons/llm-kimi.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/kimi-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "4e223a0e1f363d1caeddf21065e08d3f84f5a7acb199ec2463b6d8e45334f310",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "MoonshotAI_月之暗面/Kimi.png"
+    },
+    {
+      "key": "llm-glm",
+      "path": "assets/ai-icons/llm-glm.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/zhipu-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "612dca42bba94fd6e760eea79bb34ee8f40f23e24944e58075d6a9ff43b6801a",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "ZhipuAI_智谱/GLM.png"
+    },
+    {
+      "key": "llm-grok",
+      "path": "assets/ai-icons/llm-grok.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/grok.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "f10ec0b2322f9d65a973d3d48fcdc41270d8b123a5d36e2826dabf9dcefb0762",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "SpaceX_xAI/Grok.png"
+    },
+    {
+      "key": "llm-meta",
+      "path": "assets/ai-icons/llm-meta.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/meta-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "144fab9ba427c7d8f7ee415e5a9113a3a66538ca4fc79fb0e01502978af29a41",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "Meta/Meta.png"
+    },
+    {
+      "key": "llm-mistral",
+      "path": "assets/ai-icons/llm-mistral.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/mistral-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "f3b97d586f84e68b8031c74b34bebe4651ee0cb130831ac9b97cb64e1820a2ef",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "MistralAI/Mistral.png"
+    },
+    {
+      "key": "llm-minimax",
+      "path": "assets/ai-icons/llm-minimax.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/minimax-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "9e596627348deb4030938a948243cc94e96cc1548d645ce4faf1de0e51b9043a",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "MiniMax/MiniMax.png"
+    },
+    {
+      "key": "llm-nvidia",
+      "path": "assets/ai-icons/llm-nvidia.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/nvidia-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "5a059cec39a179d3de978fb5c83d80882f8bad61e016b9ac5a87ec8cc8dee721",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "NVIDIA_英伟达/NVIDIA.png"
+    },
+    {
+      "key": "llm-hunyuan",
+      "path": "assets/ai-icons/llm-hunyuan.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/hunyuan-color.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "0f2f9af09b698f4cfa3158d43b29e90a5f30297b09401c49133c9f195899556d",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "Tencent_腾讯/Hunyuan.png"
+    },
+    {
+      "key": "llm-mimo",
+      "path": "assets/ai-icons/llm-mimo.png",
+      "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/ab8cbcc6ce806b923c547628132957c8a8b61509/packages/static-png/light/xiaomimimo.png",
+      "acquiredAt": "2026-10-23",
+      "sha256": "04f78ad5b2ebd628ddaa59261c3696971dc54799c1ae3401454977810ca1f63b",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "Xiaomi_小米/MiMo.png"
+    },
+    {
+      "key": "llm-stepfun",
+      "path": "assets/ai-icons/llm-stepfun.png",
+      "source": "https://api.github.com/repos/lobehub/lobe-icons/git/blobs/b8dbe0e856ef6d4e28cd13663635771712339d36",
+      "acquiredAt": "2026-10-23",
+      "sha256": "49e54bcda77c23f9a8ceacc0d3c1c07da09be4c2534d453ebcad7da201b25b96",
+      "usageNotes": "LobeHub family/company icon, shared across model versions. MIT; license retained.",
+      "sourcePackFile": "StepFun_阶跃星辰/StepFun.png"
+    },
+    {
+      "key": "app-6459478672",
+      "path": "assets/ai-icons/app-6459478672.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/6a/d0/f26ad01b-3df5-723e-5ba6-f8bc0c97774d/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "789c79cd61944657a84cc45cb9d919adfb6126b26ead801d068a5915f131d7e6",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/01_豆包.png"
+    },
+    {
+      "key": "app-6737597349",
+      "path": "assets/ai-icons/app-6737597349.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/43/15/0643154d-f7c9-2776-fca6-2e8fd71e57db/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "c0d79ec2260d78b5fde8c168016e80adca85065d7d22a9d39068ba4b86f2d71a",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/02_DeepSeek.png"
+    },
+    {
+      "key": "app-6466733523",
+      "path": "assets/ai-icons/app-6466733523.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/f6/bd/f9f6bd2e-7f87-3386-8a65-3b0dbd0992e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "5ad03ca385d01e863bed24531d6a8eb977d80f0655f48cb9b259ea1f32cbd278",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/03_千问.png"
+    },
+    {
+      "key": "app-6480446430",
+      "path": "assets/ai-icons/app-6480446430.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/49/02/a34902b9-e6b1-b9b7-c288-d6b70a44ad31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "f7bd2f1e0e86064a07bc51208342d52b7614808bcffb0bdb9d9186e83ee933b8",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/04_腾讯元宝.png"
+    },
+    {
+      "key": "app-6474233312",
+      "path": "assets/ai-icons/app-6474233312.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/59/b7/f359b73c-ce7c-3d9f-8d56-9c8162b3d9f6/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "5d628732b7e851764326c41983660dc6947b2b0abc599bfddb32fa6a58ad6c45",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/05_Kimi.png"
+    },
+    {
+      "key": "app-6446882473",
+      "path": "assets/ai-icons/app-6446882473.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/ad/f6/03adf68a-ac82-3177-49d7-6840a6468b91/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "f2c191e0366cbd265baa03b86536b008cd6378915052ec5aae2010b9934e8788",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/06_文心.png"
+    },
+    {
+      "key": "app-6450893458",
+      "path": "assets/ai-icons/app-6450893458.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/1d/ec/611decfa-a08e-e9fc-1677-f4001b6ad3de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "7c0830a1a1adad0e8ebc003630e9499615628cc7e51bebe39b175de26438fdcb",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/07_智谱清言.png"
+    },
+    {
+      "key": "app-6449919551",
+      "path": "assets/ai-icons/app-6449919551.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fa/a8/36faa808-d001-d8fc-e329-4e2d8f424e2d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "6e543ab55374385b0d997b7ab70f4480818a6b48d79252825232e274d126a795",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/08_讯飞星火.png"
+    },
+    {
+      "key": "app-6503676563",
+      "path": "assets/ai-icons/app-6503676563.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/0a/3c/9c0a3c0c-24eb-32e9-65cd-1079b6ff82ef/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "64e570ec86f93b151c479398605d238a8a2d29dbe8efc32712bd2e018d5b0a06",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/09_即梦AI.png"
+    },
+    {
+      "key": "app-6670396916",
+      "path": "assets/ai-icons/app-6670396916.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a6/c8/35a6c82a-9621-bff9-d8fd-8f4a112317cc/AppIconKlingapp-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "ba476ba3cf1fff0f73b6e7972a95e7f0609ad61a77f91b52c643f399701ec7d1",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/10_可灵AI.png"
+    },
+    {
+      "key": "app-6448311069",
+      "path": "assets/ai-icons/app-6448311069.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/23/eb/3023ebb0-1e40-6314-9909-f490a704b5d1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "daea7e93069e89b6dbe088b620bf6002dbab2aa91984ebbfbf696ccb963b1308",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/01_ChatGPT.png"
+    },
+    {
+      "key": "app-6477489729",
+      "path": "assets/ai-icons/app-6477489729.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/06/62/300662ce-cd91-f109-8ca9-ca1517193f61/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "fb1ea93cb6e6069da4ea84815e17299ef0e085de7658b4d95b49b7e3cb3cf0fa",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/02_Google Gemini.png"
+    },
+    {
+      "key": "app-6473753684",
+      "path": "assets/ai-icons/app-6473753684.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/91/bd/4391bdf8-0cfb-5f5d-ba04-9562a56a2f61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "78513211818fdfb69b6d3e350a45e1e847eccbd8dd8148c6e265b473a73a725a",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/03_Claude.png"
+    },
+    {
+      "key": "app-6670324846",
+      "path": "assets/ai-icons/app-6670324846.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/e7/e2/8ee7e2f6-f47e-7263-8384-cc24f47bf2c0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "156e927b7880739a144a67cb219b552b6da9ab474e0373e5270d01e2584cfc87",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/04_Grok.png"
+    },
+    {
+      "key": "app-541164041",
+      "path": "assets/ai-icons/app-541164041.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/fd/44/fcfd442d-8da6-b12c-604a-f45830e14ad2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "644feadf59c68e6c270146416bfe84050d78932d88931804a2877459c6d352cd",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/05_Microsoft Copilot.png"
+    },
+    {
+      "key": "app-1668000334",
+      "path": "assets/ai-icons/app-1668000334.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/1b/7a/951b7af0-114e-072a-d63b-5e449b770dab/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "2b2a7ab65bd264c661d1b6713109c5f373d90679779e14305deaba3b53e6f773",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/06_Perplexity.png"
+    },
+    {
+      "key": "app-1558240027",
+      "path": "assets/ai-icons/app-1558240027.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/80/76/3c807659-ddf8-4b5d-a42d-9d29ef7fb935/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "2aa62cd574ab6a927681a10eefcec3e87bf97a4142457b79ecb07222630d2585",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/07_Meta AI.png"
+    },
+    {
+      "key": "app-1640745955",
+      "path": "assets/ai-icons/app-1640745955.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/f3/38/24f33848-882b-aa89-8367-5a9317abadc5/AppIcon_Poe-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "823d9736971af49a956988cba34d82d00408df9be5f2733c44658fdb485f9ac2",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/08_Poe.png"
+    },
+    {
+      "key": "app-6480136315",
+      "path": "assets/ai-icons/app-6480136315.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/8c/86/3f8c86b0-54f7-e247-6bd4-f7e9be6d978c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "2af1e044c2ec184cbc4f765463323553d7f5f2e67ec5ffa488ba58ed8142555a",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/09_Suno.png"
+    },
+    {
+      "key": "app-1671705818",
+      "path": "assets/ai-icons/app-1671705818.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/e6/a6/b2e6a6a8-cd3e-5f09-c19a-da0186b7ead7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "07a0d5cab4b321f81bad19e0b0398ec94787dc1537ce660dd56d4351e57ce126",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/10_Character.AI.png"
+    },
+    {
+      "key": "app-6463076337",
+      "path": "assets/ai-icons/app-6463076337.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/48/ab/1148ab21-eaa2-eac8-5538-b41edae10412/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "52763cdea0849f289443402eef82fbf76c4f7e43ed0943d4a94f2b4079edbd66",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国内/11_星野.png"
+    },
+    {
+      "key": "app-6737527615",
+      "path": "assets/ai-icons/app-6737527615.png",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/84/50/9c8450d7-92e9-9356-6053-cd0c69a03edf/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "acquiredAt": "2026-10-23",
+      "sha256": "9b09a3b2f143099a05daa87997acf12d131c62348a8eb8ae94d9d58716cc2419",
+      "usageNotes": "User-selected official App or web-app brand icon. Icon and trademark rights belong to their owners.",
+      "sourcePackFile": "国外/11_NotebookLM.png"
+    }
+  ]
+}

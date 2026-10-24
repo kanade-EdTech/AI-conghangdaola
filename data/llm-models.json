@@ -1,0 +1,1641 @@
+{
+  "catalogRevision": "llm-pack-30950d11a0de10f0",
+  "verifiedAt": "2026-10-23",
+  "providers": {
+    "openai": "OpenAI",
+    "anthropic": "Anthropic",
+    "google": "Google",
+    "deepseek": "DeepSeek（深度求索）",
+    "qwen": "Alibaba（阿里巴巴）",
+    "moonshotai": "Moonshot AI（月之暗面）",
+    "z-ai": "Z.ai / 智谱",
+    "x-ai": "SpaceX（xAI / Grok 团队）",
+    "meta-llama": "Meta",
+    "mistralai": "Mistral AI",
+    "minimax": "MiniMax",
+    "nvidia": "NVIDIA（英伟达）",
+    "tencent": "Tencent（腾讯）",
+    "xiaomi": "Xiaomi（小米）",
+    "stepfun": "StepFun（阶跃星辰）"
+  },
+  "categories": {},
+  "items": [
+    {
+      "id": "builtin:llm:openai:gpt-4o",
+      "kind": "llm",
+      "name": "GPT-4o",
+      "aliases": [
+        "openai/gpt-4o"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-4o",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-4o"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-4.1",
+      "kind": "llm",
+      "name": "GPT-4.1",
+      "aliases": [
+        "openai/gpt-4.1"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-4.1",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-4.1"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:o3",
+      "kind": "llm",
+      "name": "o3",
+      "aliases": [
+        "openai/o3"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/o3",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/o3"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-5",
+      "kind": "llm",
+      "name": "GPT-5",
+      "aliases": [
+        "openai/gpt-5"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-6-luna",
+      "kind": "llm",
+      "name": "GPT-6 Luna",
+      "aliases": [
+        "openai/gpt-6-luna"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-6-luna",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-6-luna"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-sonnet-4.5",
+      "kind": "llm",
+      "name": "Claude Sonnet 4.5",
+      "aliases": [
+        "anthropic/claude-sonnet-4.5"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-sonnet-4.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-sonnet-4.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-sonnet-4.6",
+      "kind": "llm",
+      "name": "Claude Sonnet 4.6",
+      "aliases": [
+        "anthropic/claude-sonnet-4.6"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-sonnet-4.6",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-sonnet-4.6"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-opus-4.5",
+      "kind": "llm",
+      "name": "Claude Opus 4.5",
+      "aliases": [
+        "anthropic/claude-opus-4.5"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-opus-4.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-opus-4.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-opus-5.5",
+      "kind": "llm",
+      "name": "Claude Opus 5.5",
+      "aliases": [
+        "anthropic/claude-opus-5.5"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-opus-5.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-opus-5.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:google:gemini-2.5-pro",
+      "kind": "llm",
+      "name": "Gemini 2.5 Pro",
+      "aliases": [
+        "google/gemini-2.5-pro"
+      ],
+      "providerId": "google",
+      "providerName": "Google",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-gemini",
+      "iconKey": "llm-gemini",
+      "modelIdentity": {
+        "modelId": "google/gemini-2.5-pro",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/google/gemini-2.5-pro"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:google:gemini-2.5-flash",
+      "kind": "llm",
+      "name": "Gemini 2.5 Flash",
+      "aliases": [
+        "google/gemini-2.5-flash"
+      ],
+      "providerId": "google",
+      "providerName": "Google",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-gemini",
+      "iconKey": "llm-gemini",
+      "modelIdentity": {
+        "modelId": "google/gemini-2.5-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/google/gemini-2.5-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:google:gemini-2.5-flash-lite",
+      "kind": "llm",
+      "name": "Gemini 2.5 Flash Lite",
+      "aliases": [
+        "google/gemini-2.5-flash-lite"
+      ],
+      "providerId": "google",
+      "providerName": "Google",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-gemini",
+      "iconKey": "llm-gemini",
+      "modelIdentity": {
+        "modelId": "google/gemini-2.5-flash-lite",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/google/gemini-2.5-flash-lite"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:google:gemini-4-argon",
+      "kind": "llm",
+      "name": "Gemini 4 Argon",
+      "aliases": [
+        "google/gemini-4-argon"
+      ],
+      "providerId": "google",
+      "providerName": "Google",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-gemini",
+      "iconKey": "llm-gemini",
+      "modelIdentity": {
+        "modelId": "google/gemini-4-argon",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/google/gemini-4-argon"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-r1-0528",
+      "kind": "llm",
+      "name": "DeepSeek R1 0528",
+      "aliases": [
+        "deepseek/deepseek-r1-0528"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-r1-0528",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-r1-0528"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v3.2",
+      "kind": "llm",
+      "name": "DeepSeek V3.2",
+      "aliases": [
+        "deepseek/deepseek-v3.2"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v3.2",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v3.2"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v4.1-flash",
+      "kind": "llm",
+      "name": "DeepSeek V4.1 Flash",
+      "aliases": [
+        "deepseek/deepseek-v4.1-flash"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v4.1-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v4.1-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:qwen:qwen-2.5-72b-instruct",
+      "kind": "llm",
+      "name": "Qwen2.5 72B Instruct",
+      "aliases": [
+        "qwen/qwen-2.5-72b-instruct"
+      ],
+      "providerId": "qwen",
+      "providerName": "Alibaba（阿里巴巴）",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-qwen",
+      "iconKey": "llm-qwen",
+      "modelIdentity": {
+        "modelId": "qwen/qwen-2.5-72b-instruct",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/qwen/qwen-2.5-72b-instruct"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:qwen:qwen3-235b-a22b-2507",
+      "kind": "llm",
+      "name": "Qwen3 235B A22B Instruct 2507",
+      "aliases": [
+        "qwen/qwen3-235b-a22b-2507"
+      ],
+      "providerId": "qwen",
+      "providerName": "Alibaba（阿里巴巴）",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-qwen",
+      "iconKey": "llm-qwen",
+      "modelIdentity": {
+        "modelId": "qwen/qwen3-235b-a22b-2507",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/qwen/qwen3-235b-a22b-2507"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:qwen:qwen3.8-max-0902",
+      "kind": "llm",
+      "name": "Qwen3.8 Max (0902)",
+      "aliases": [
+        "qwen/qwen3.8-max-0902"
+      ],
+      "providerId": "qwen",
+      "providerName": "Alibaba（阿里巴巴）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-qwen",
+      "iconKey": "llm-qwen",
+      "modelIdentity": {
+        "modelId": "qwen/qwen3.8-max-0902",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/qwen/qwen3.8-max-0902"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:moonshotai:kimi-k2",
+      "kind": "llm",
+      "name": "Kimi K2 0711",
+      "aliases": [
+        "moonshotai/kimi-k2"
+      ],
+      "providerId": "moonshotai",
+      "providerName": "Moonshot AI（月之暗面）",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-kimi",
+      "iconKey": "llm-kimi",
+      "modelIdentity": {
+        "modelId": "moonshotai/kimi-k2",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/moonshotai/kimi-k2"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:moonshotai:kimi-k2.5",
+      "kind": "llm",
+      "name": "Kimi K2.5",
+      "aliases": [
+        "moonshotai/kimi-k2.5"
+      ],
+      "providerId": "moonshotai",
+      "providerName": "Moonshot AI（月之暗面）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-kimi",
+      "iconKey": "llm-kimi",
+      "modelIdentity": {
+        "modelId": "moonshotai/kimi-k2.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/moonshotai/kimi-k2.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:z-ai:glm-4.5",
+      "kind": "llm",
+      "name": "GLM 4.5",
+      "aliases": [
+        "z-ai/glm-4.5"
+      ],
+      "providerId": "z-ai",
+      "providerName": "Z.ai / 智谱",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-glm",
+      "iconKey": "llm-glm",
+      "modelIdentity": {
+        "modelId": "z-ai/glm-4.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/z-ai/glm-4.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:z-ai:glm-5.3",
+      "kind": "llm",
+      "name": "GLM 5.3",
+      "aliases": [
+        "z-ai/glm-5.3"
+      ],
+      "providerId": "z-ai",
+      "providerName": "Z.ai / 智谱",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-glm",
+      "iconKey": "llm-glm",
+      "modelIdentity": {
+        "modelId": "z-ai/glm-5.3",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/z-ai/glm-5.3"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:x-ai:grok-4.7",
+      "kind": "llm",
+      "name": "Grok 4.7",
+      "aliases": [
+        "x-ai/grok-4.7"
+      ],
+      "providerId": "x-ai",
+      "providerName": "SpaceX（xAI / Grok 团队）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-grok",
+      "iconKey": "llm-grok",
+      "modelIdentity": {
+        "modelId": "x-ai/grok-4.7",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/x-ai/grok-4.7"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:meta-llama:llama-4-maverick",
+      "kind": "llm",
+      "name": "Llama 4 Maverick",
+      "aliases": [
+        "meta-llama/llama-4-maverick"
+      ],
+      "providerId": "meta-llama",
+      "providerName": "Meta",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-meta",
+      "iconKey": "llm-meta",
+      "modelIdentity": {
+        "modelId": "meta-llama/llama-4-maverick",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/meta-llama/llama-4-maverick"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:mistralai:mistral-small-3.1-24b-instruct",
+      "kind": "llm",
+      "name": "Mistral Small 3.1 24B",
+      "aliases": [
+        "mistralai/mistral-small-3.1-24b-instruct"
+      ],
+      "providerId": "mistralai",
+      "providerName": "Mistral AI",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-mistral",
+      "iconKey": "llm-mistral",
+      "modelIdentity": {
+        "modelId": "mistralai/mistral-small-3.1-24b-instruct",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:minimax:minimax-m2.5",
+      "kind": "llm",
+      "name": "MiniMax M2.5",
+      "aliases": [
+        "minimax/minimax-m2.5"
+      ],
+      "providerId": "minimax",
+      "providerName": "MiniMax",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-minimax",
+      "iconKey": "llm-minimax",
+      "modelIdentity": {
+        "modelId": "minimax/minimax-m2.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/minimax/minimax-m2.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:nvidia:nemotron-3-ultra-550b-a55b",
+      "kind": "llm",
+      "name": "Nemotron 3 Ultra",
+      "aliases": [
+        "nvidia/nemotron-3-ultra-550b-a55b"
+      ],
+      "providerId": "nvidia",
+      "providerName": "NVIDIA（英伟达）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-nvidia",
+      "iconKey": "llm-nvidia",
+      "modelIdentity": {
+        "modelId": "nvidia/nemotron-3-ultra-550b-a55b",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:tencent:hy4-preview",
+      "kind": "llm",
+      "name": "Hy4 preview",
+      "aliases": [
+        "tencent/hy4-preview"
+      ],
+      "providerId": "tencent",
+      "providerName": "Tencent（腾讯）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-hunyuan",
+      "iconKey": "llm-hunyuan",
+      "modelIdentity": {
+        "modelId": "tencent/hy4-preview",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/tencent/hy4-preview"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:xiaomi:mimo-v2.6-flash",
+      "kind": "llm",
+      "name": "MiMo-V2.6-Flash",
+      "aliases": [
+        "xiaomi/mimo-v2.6-flash"
+      ],
+      "providerId": "xiaomi",
+      "providerName": "Xiaomi（小米）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-mimo",
+      "iconKey": "llm-mimo",
+      "modelIdentity": {
+        "modelId": "xiaomi/mimo-v2.6-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/xiaomi/mimo-v2.6-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:google:gemini-3-flash-preview",
+      "kind": "llm",
+      "name": "Gemini 3 Flash Preview",
+      "aliases": [
+        "google/gemini-3-flash-preview"
+      ],
+      "providerId": "google",
+      "providerName": "Google",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-gemini",
+      "iconKey": "llm-gemini",
+      "modelIdentity": {
+        "modelId": "google/gemini-3-flash-preview",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/google/gemini-3-flash-preview"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-oss-120b",
+      "kind": "llm",
+      "name": "gpt-oss-120b",
+      "aliases": [
+        "openai/gpt-oss-120b"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-oss-120b",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-oss-120b"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-opus-4.6",
+      "kind": "llm",
+      "name": "Claude Opus 4.6",
+      "aliases": [
+        "anthropic/claude-opus-4.6"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-opus-4.6",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-opus-4.6"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:z-ai:glm-5",
+      "kind": "llm",
+      "name": "GLM 5",
+      "aliases": [
+        "z-ai/glm-5"
+      ],
+      "providerId": "z-ai",
+      "providerName": "Z.ai / 智谱",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-glm",
+      "iconKey": "llm-glm",
+      "modelIdentity": {
+        "modelId": "z-ai/glm-5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/z-ai/glm-5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:stepfun:step-3.5-flash",
+      "kind": "llm",
+      "name": "Step 3.5 Flash",
+      "aliases": [
+        "stepfun/step-3.5-flash"
+      ],
+      "providerId": "stepfun",
+      "providerName": "StepFun（阶跃星辰）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-stepfun",
+      "iconKey": "llm-stepfun",
+      "modelIdentity": {
+        "modelId": "stepfun/step-3.5-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/stepfun/step-3.5-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:minimax:minimax-m2.7",
+      "kind": "llm",
+      "name": "MiniMax M2.7",
+      "aliases": [
+        "minimax/minimax-m2.7"
+      ],
+      "providerId": "minimax",
+      "providerName": "MiniMax",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-minimax",
+      "iconKey": "llm-minimax",
+      "modelIdentity": {
+        "modelId": "minimax/minimax-m2.7",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/minimax/minimax-m2.7"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:moonshotai:kimi-k2.6",
+      "kind": "llm",
+      "name": "Kimi K2.6",
+      "aliases": [
+        "moonshotai/kimi-k2.6"
+      ],
+      "providerId": "moonshotai",
+      "providerName": "Moonshot AI（月之暗面）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-kimi",
+      "iconKey": "llm-kimi",
+      "modelIdentity": {
+        "modelId": "moonshotai/kimi-k2.6",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/moonshotai/kimi-k2.6"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-opus-4.7",
+      "kind": "llm",
+      "name": "Claude Opus 4.7",
+      "aliases": [
+        "anthropic/claude-opus-4.7"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-opus-4.7",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-opus-4.7"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v4-flash",
+      "kind": "llm",
+      "name": "DeepSeek V4 Flash 0423",
+      "aliases": [
+        "deepseek/deepseek-v4-flash"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v4-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v4-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v4-pro",
+      "kind": "llm",
+      "name": "DeepSeek V4 Pro 0423",
+      "aliases": [
+        "deepseek/deepseek-v4-pro"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v4-pro",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v4-pro"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:minimax:minimax-m3",
+      "kind": "llm",
+      "name": "MiniMax M3",
+      "aliases": [
+        "minimax/minimax-m3"
+      ],
+      "providerId": "minimax",
+      "providerName": "MiniMax",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-minimax",
+      "iconKey": "llm-minimax",
+      "modelIdentity": {
+        "modelId": "minimax/minimax-m3",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/minimax/minimax-m3"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:z-ai:glm-5.2",
+      "kind": "llm",
+      "name": "GLM 5.2",
+      "aliases": [
+        "z-ai/glm-5.2"
+      ],
+      "providerId": "z-ai",
+      "providerName": "Z.ai / 智谱",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-glm",
+      "iconKey": "llm-glm",
+      "modelIdentity": {
+        "modelId": "z-ai/glm-5.2",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/z-ai/glm-5.2"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:xiaomi:mimo-v2.5",
+      "kind": "llm",
+      "name": "MiMo-V2.5",
+      "aliases": [
+        "xiaomi/mimo-v2.5"
+      ],
+      "providerId": "xiaomi",
+      "providerName": "Xiaomi（小米）",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-mimo",
+      "iconKey": "llm-mimo",
+      "modelIdentity": {
+        "modelId": "xiaomi/mimo-v2.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/xiaomi/mimo-v2.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:tencent:hy3",
+      "kind": "llm",
+      "name": "Hy3",
+      "aliases": [
+        "tencent/hy3"
+      ],
+      "providerId": "tencent",
+      "providerName": "Tencent（腾讯）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-hunyuan",
+      "iconKey": "llm-hunyuan",
+      "modelIdentity": {
+        "modelId": "tencent/hy3",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/tencent/hy3"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-5.6-luna",
+      "kind": "llm",
+      "name": "GPT-5.6 Luna",
+      "aliases": [
+        "openai/gpt-5.6-luna"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-5.6-luna",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-5.6-luna"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v4-flash-0731",
+      "kind": "llm",
+      "name": "DeepSeek V4 Flash 0731",
+      "aliases": [
+        "deepseek/deepseek-v4-flash-0731"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v4-flash-0731",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v4-flash-0731"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:z-ai:glm-5.3-flash",
+      "kind": "llm",
+      "name": "GLM 5.3 Flash",
+      "aliases": [
+        "z-ai/glm-5.3-flash"
+      ],
+      "providerId": "z-ai",
+      "providerName": "Z.ai / 智谱",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-glm",
+      "iconKey": "llm-glm",
+      "modelIdentity": {
+        "modelId": "z-ai/glm-5.3-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/z-ai/glm-5.3-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:stepfun:step-5-preview",
+      "kind": "llm",
+      "name": "Step 5 Preview",
+      "aliases": [
+        "stepfun/step-5-preview"
+      ],
+      "providerId": "stepfun",
+      "providerName": "StepFun（阶跃星辰）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-stepfun",
+      "iconKey": "llm-stepfun",
+      "modelIdentity": {
+        "modelId": "stepfun/step-5-preview",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/stepfun/step-5-preview"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v4.1-flash-1017",
+      "kind": "llm",
+      "name": "DeepSeek V4.1 Flash 1017",
+      "aliases": [
+        "deepseek/deepseek-v4.1-flash-1017"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v4.1-flash-1017",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:minimax:minimax-m3.1-flash",
+      "kind": "llm",
+      "name": "MiniMax M3.1 Flash",
+      "aliases": [
+        "minimax/minimax-m3.1-flash"
+      ],
+      "providerId": "minimax",
+      "providerName": "MiniMax",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-minimax",
+      "iconKey": "llm-minimax",
+      "modelIdentity": {
+        "modelId": "minimax/minimax-m3.1-flash",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/minimax/minimax-m3.1-flash"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-4o-mini",
+      "kind": "llm",
+      "name": "GPT-4o-mini",
+      "aliases": [
+        "openai/gpt-4o-mini"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-4o-mini",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-4o-mini"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-3.5-sonnet",
+      "kind": "llm",
+      "name": "Claude 3.5 Sonnet",
+      "aliases": [
+        "anthropic/claude-3.5-sonnet"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-3.5-sonnet",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-3.5-sonnet"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-3.7-sonnet",
+      "kind": "llm",
+      "name": "Claude 3.7 Sonnet",
+      "aliases": [
+        "anthropic/claude-3.7-sonnet"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-3.7-sonnet",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-3.7-sonnet"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:google:gemini-2.0-flash-001",
+      "kind": "llm",
+      "name": "Gemini 2.0 Flash",
+      "aliases": [
+        "google/gemini-2.0-flash-001"
+      ],
+      "providerId": "google",
+      "providerName": "Google",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-gemini",
+      "iconKey": "llm-gemini",
+      "modelIdentity": {
+        "modelId": "google/gemini-2.0-flash-001",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/google/gemini-2.0-flash-001"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-r1",
+      "kind": "llm",
+      "name": "DeepSeek R1",
+      "aliases": [
+        "deepseek/deepseek-r1"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-r1",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-r1"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-chat-v3-0324",
+      "kind": "llm",
+      "name": "DeepSeek V3 0324",
+      "aliases": [
+        "deepseek/deepseek-chat-v3-0324"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-chat-v3-0324",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-chat-v3-0324"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-sonnet-4",
+      "kind": "llm",
+      "name": "Claude Sonnet 4",
+      "aliases": [
+        "anthropic/claude-sonnet-4"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-sonnet-4",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-sonnet-4"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-4.1-mini",
+      "kind": "llm",
+      "name": "GPT-4.1 Mini",
+      "aliases": [
+        "openai/gpt-4.1-mini"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2025年上半年",
+      "archivePeriod": "2025-h1",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-4.1-mini",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-4.1-mini"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:qwen:qwen3-coder",
+      "kind": "llm",
+      "name": "Qwen3 Coder 480B A35B",
+      "aliases": [
+        "qwen/qwen3-coder"
+      ],
+      "providerId": "qwen",
+      "providerName": "Alibaba（阿里巴巴）",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-qwen",
+      "iconKey": "llm-qwen",
+      "modelIdentity": {
+        "modelId": "qwen/qwen3-coder",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/qwen/qwen3-coder"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:x-ai:grok-code-fast-1",
+      "kind": "llm",
+      "name": "Grok Code Fast 1",
+      "aliases": [
+        "x-ai/grok-code-fast-1"
+      ],
+      "providerId": "x-ai",
+      "providerName": "SpaceX（xAI / Grok 团队）",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-grok",
+      "iconKey": "llm-grok",
+      "modelIdentity": {
+        "modelId": "x-ai/grok-code-fast-1",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/x-ai/grok-code-fast-1"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-6.1-sol",
+      "kind": "llm",
+      "name": "GPT-6.1 Sol",
+      "aliases": [
+        "openai/gpt-6.1-sol"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-6.1-sol",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-6.1-sol"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-6-astra",
+      "kind": "llm",
+      "name": "GPT-6 Astra",
+      "aliases": [
+        "openai/gpt-6-astra"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-6-astra",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-6-astra"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:openai:gpt-5.6-sol",
+      "kind": "llm",
+      "name": "GPT-5.6 Sol",
+      "aliases": [
+        "openai/gpt-5.6-sol"
+      ],
+      "providerId": "openai",
+      "providerName": "OpenAI",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-openai",
+      "iconKey": "llm-openai",
+      "modelIdentity": {
+        "modelId": "openai/gpt-5.6-sol",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/openai/gpt-5.6-sol"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-fable-5",
+      "kind": "llm",
+      "name": "Claude Fable 5",
+      "aliases": [
+        "anthropic/claude-fable-5"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2026年上半年",
+      "archivePeriod": "2026-h1",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-fable-5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-fable-5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-sonnet-5.5",
+      "kind": "llm",
+      "name": "Claude Sonnet 5.5",
+      "aliases": [
+        "anthropic/claude-sonnet-5.5"
+      ],
+      "providerId": "anthropic",
+      "providerName": "Anthropic",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-claude",
+      "iconKey": "llm-claude",
+      "modelIdentity": {
+        "modelId": "anthropic/claude-sonnet-5.5",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/anthropic/claude-sonnet-5.5"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:moonshotai:kimi-k3",
+      "kind": "llm",
+      "name": "Kimi K3",
+      "aliases": [
+        "moonshotai/kimi-k3"
+      ],
+      "providerId": "moonshotai",
+      "providerName": "Moonshot AI（月之暗面）",
+      "categoryIds": [],
+      "subtitle": "2026年下半年",
+      "archivePeriod": "2026-h2",
+      "familyId": "llm-kimi",
+      "iconKey": "llm-kimi",
+      "modelIdentity": {
+        "modelId": "moonshotai/kimi-k3",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/moonshotai/kimi-k3"
+      ],
+      "verifiedAt": "2026-10-23"
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v3.1-terminus",
+      "kind": "llm",
+      "name": "DeepSeek V3.1 Terminus",
+      "aliases": [
+        "deepseek/deepseek-v3.1-terminus"
+      ],
+      "providerId": "deepseek",
+      "providerName": "DeepSeek（深度求索）",
+      "categoryIds": [],
+      "subtitle": "2025年下半年",
+      "archivePeriod": "2025-h2",
+      "familyId": "llm-deepseek",
+      "iconKey": "llm-deepseek",
+      "modelIdentity": {
+        "modelId": "deepseek/deepseek-v3.1-terminus",
+        "service": "OpenRouter"
+      },
+      "lifecycle": "unknown",
+      "sources": [
+        "https://openrouter.ai/deepseek/deepseek-v3.1-terminus"
+      ],
+      "verifiedAt": "2026-10-23"
+    }
+  ],
+  "importOrigin": {
+    "adapter": "llm-image-pack",
+    "source": "F:\\VS_Code_Project\\AI-conghangdaola\\output\\LLM模型图标_2025-2026_67款",
+    "csv": "模型清单.csv",
+    "csvSha256": "30950d11a0de10f087acde0cfe2e3dabbdf42acb6d92d1743e43ac7effc5d8d9",
+    "modelCount": 67,
+    "uniqueIconCount": 15,
+    "note": "CSV and actual icon files are authoritative. Source pack is read-only for this importer."
+  }
+}

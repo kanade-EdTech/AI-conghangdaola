@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#161922">
+  <title>AI 从夯到拉</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <main id="app" class="app-shell">
+    <header class="masthead"><div class="wordmark"><span class="logo">AI</span><div><span class="eyebrow">YOUR EXPERIENCE. YOUR TIER.</span><h1>从夯到拉<span class="brand-dot">.</span></h1></div></div><button id="help" class="quiet">使用说明</button></header>
+    <div id="demo-notice" class="notice" hidden>开发预览 · 当前为虚构示例名单，等待接入正式数据。排名仅保存在本机。</div>
+    <div id="storage-warning" class="notice warning" hidden><p id="storage-warning-text"></p><button id="restore-backup">恢复备份</button><button id="restart">重新开始</button></div>
+    <nav class="top-navigation" aria-label="选择榜单"><button data-board="app" aria-pressed="true"><span>01</span> AI App</button><button data-board="llm" aria-pressed="false"><span>02</span> 语言模型</button></nav>
+    <section class="board-heading"><div><p class="eyebrow">THE LINEUP / 我的体验榜</p><label for="board-title" class="sr-only">榜单标题</label><input id="board-title" class="board-title" aria-label="榜单标题" autocomplete="off"><p class="subtle">没有标准答案。按你的体验，把 AI 排进五个档位。</p></div><span id="rank-progress" class="progress-label"></span></section>
+    <section class="filters" aria-label="筛选条目">
+      <label class="search-label"><span>搜索</span><input id="search" type="search" placeholder="名称、别名或说明…" autocomplete="off" maxlength="200"></label>
+      <label><span>品牌产品</span><select id="provider"><option value="all">全部品牌产品</option></select></label>
+      <label id="category-field"><span>分类</span><select id="category"><option value="all">全部分类</option></select></label>
+      <label id="period-field" hidden><span>发布时段</span><select id="period"><option value="all">全部时段</option><option value="2025-h1">2025 上半年</option><option value="2025-h2">2025 下半年</option><option value="2026-h1">2026 上半年</option><option value="2026-h2">2026 下半年</option><option value="unknown">未标注时段</option></select></label>
+      <label><span>条目来源</span><select id="source"><option value="all">全部来源</option><option value="builtin">内置条目</option><option value="custom">我的条目</option></select></label>
+    </section>
+    <div class="scope-bar"><span id="scope-summary" role="status"></span><div><button id="clear-filters" class="quiet">清除筛选</button><button id="add-item" class="accent">＋ 添加条目</button></div></div>
+    <section id="ranking-root" aria-label="排序区域"><div id="tier-board"></div><section class="pool-section"><div class="section-heading"><h2>待排名 <span id="pool-count"></span></h2><span class="subtle">拖动卡片，或点按后调档和调整同行顺序。</span></div><div id="pool" class="card-list" data-dropzone="unranked" role="group" aria-label="待排名"></div><button id="more-pool" class="load-more" hidden>展开更多</button></section></section>
+    <p id="empty-state" class="empty-state" hidden>没有符合条件的条目。试试清除筛选，或添加自己的条目。</p>
+    <p id="save-status" class="save-state" role="status"></p>
+    <aside id="selection-bar" class="selection-bar" aria-label="选中条目操作" hidden><strong id="selection-name"></strong><label>调档<select id="selection-tier" aria-label="调整选中条目档位"></select></label><button id="selection-prev">前移</button><button id="selection-next">后移</button><button id="selection-detail">详情</button><button id="selection-close" aria-label="取消选择">×</button></aside>
+    <footer class="action-bar"><div><button id="undo" disabled>↶ 撤销</button><button id="clear-ranked" class="quiet" disabled>清空已排</button></div><button id="export" class="primary">生成结果图 ↗</button></footer>
+  </main>
+  <div id="modal-overlay" class="modal-overlay" hidden><section id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1"><header class="modal-header"><h2 id="modal-title"></h2><button id="modal-close" aria-label="关闭弹窗">×</button></header><div id="modal-content" class="modal-content"></div></section></div>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script src="./core.js"></script><script src="./catalog.js"></script><script src="./config.js"></script><script src="./storage.js"></script>
+  <script src="./interaction/session.js"></script><script src="./interaction/hit-test.js"></script><script src="./interaction/input.js"></script><script src="./interaction/drag.js"></script>
+  <script src="./poster.js"></script><script src="./platform.js"></script><script src="./app.js"></script>
+</body>
+</html>

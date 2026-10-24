@@ -1,0 +1,19 @@
+{
+  "name": "ai-conghangdaola",
+  "version": "0.1.4-dev.1",
+  "private": true,
+  "description": "AI 从夯到拉，AI App 与语言模型个人体验排序工具",
+  "scripts": {
+    "build": "node scripts/ai-build.mjs",
+    "build:demo": "node scripts/ai-build.mjs --demo",
+    "dev": "node scripts/ai-dev.mjs",
+    "preview:start": "node scripts/ai-preview-start.mjs",
+    "images:check": "node scripts/ai-image-report.mjs",
+    "test": "node --test tests/ai-*.test.cjs",
+    "check": "node scripts/ai-check.mjs",
+    "package": "node scripts/ai-check.mjs && python scripts/ai-package.py",
+    "build:xhs": "node scripts/ai-build.mjs xhs",
+    "check:xhs": "node scripts/ai-check.mjs xhs",
+    "package:xhs": "node scripts/ai-check.mjs xhs && python scripts/ai-package.py --platform xhs"
+  }
+}

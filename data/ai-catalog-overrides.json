@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "confirmedAt": "2026-10-23",
+  "providerLabels": { "z-ai": "Z.ai（智谱）" },
+  "reason": "User explicitly confirmed model half-years and identified Qwen Studio as the Google Play mobile app. Overrides take priority over imported research packs.",
+  "items": [
+    {
+      "id": "builtin:llm:openai:gpt-6.1-sol",
+      "patch": { "archivePeriod": "2026-h2", "subtitle": "2026年下半年" }
+    },
+    {
+      "id": "builtin:llm:openai:gpt-6-astra",
+      "patch": { "archivePeriod": "2026-h2", "subtitle": "2026年下半年" }
+    },
+    {
+      "id": "builtin:llm:openai:gpt-5.6-sol",
+      "patch": { "archivePeriod": "2026-h2", "subtitle": "2026年下半年" }
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-fable-5",
+      "patch": { "archivePeriod": "2026-h2", "subtitle": "2026年下半年" }
+    },
+    {
+      "id": "builtin:llm:anthropic:claude-sonnet-5.5",
+      "patch": { "archivePeriod": "2026-h2", "subtitle": "2026年下半年" }
+    },
+    {
+      "id": "builtin:llm:moonshotai:kimi-k3",
+      "patch": { "archivePeriod": "2026-h2", "subtitle": "2026年下半年" }
+    },
+    {
+      "id": "builtin:llm:deepseek:deepseek-v3.1-terminus",
+      "patch": { "archivePeriod": "2025-h2", "subtitle": "2025年下半年" }
+    },
+    {
+      "id": "builtin:app:web:qwen-studio",
+      "patch": {
+        "subtitle": "Google Play",
+        "aliases": ["Qwen Studio", "Qwen", "Qwen Chat", "ai.qwenlm.chat.android"],
+        "sources": ["https://play.google.com/store/apps/details?id=ai.qwenlm.chat.android"],
+        "verifiedAt": "2026-10-23",
+        "appIdentity": { "store": "google-play", "packageId": "ai.qwenlm.chat.android" }
+      }
+    }
+  ]
+}
